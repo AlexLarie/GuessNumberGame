@@ -28,11 +28,19 @@ cd GuessTheNumberGame
 ```
 npm install
 ```
+or:
+```
+yarn
+```
 
 4. Start the development server:
 
 ```
 npm start
+```
+or:
+```
+yarn start
 ```
 
 5. Open the Expo app on your mobile device and scan the QR code displayed in the terminal.
